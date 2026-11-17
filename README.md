@@ -23,6 +23,7 @@ I'm a BSc graduate (with a major in Comp Sci) from Western University. I mainly 
 ![C](https://img.shields.io/badge/-blue?style=flat-square&logo=c&logoColor=white&color=%23A8B9CC)
 ![C++](https://img.shields.io/badge/C%2B%2B-blue?style=flat-square&logo=C%2B%2B&logoColor=white&color=%2300599C)
 ![C#](https://img.shields.io/badge/C%23-green?style=flat-square&logo=csharp&logoColor=white&color=%23249121)
+![Unity](https://img.shields.io/badge/Unity-grey?style=flat-square&logo=unity&logoColor=white&color=%23A8A7A8)
 ![MySQL](https://img.shields.io/badge/MySQL-blue?style=flat-square&logo=mysql&logoColor=white&color=%2347809D)
 ![Docker](https://img.shields.io/badge/Docker-blue?style=flat-square&logo=docker&logoColor=white&color=%232496ED)
 ![Git](https://img.shields.io/badge/Git-orange?style=flat-square&logo=git&logoColor=white&color=%23F03C2D)
