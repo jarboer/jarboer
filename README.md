@@ -16,9 +16,16 @@ I'm a BSc graduate (with a major in Comp Sci) from Western University. I mainly 
 
 
 ![Swift](https://img.shields.io/badge/Swift-orange?style=flat-square&logo=Swift&logoColor=white&color=%23F05137)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=flat-square&logo=TypeScript&logoColor=white&color=%233078C6)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=flat-square&logo=JavaScript&logoColor=black&color=%23F7DF1C)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white&color=%234487B8)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white&color=%23F29111)
+![C](https://img.shields.io/badge/-blue?style=flat-square&logo=c&logoColor=white&color=%23A8B9CC)
+![C++](https://img.shields.io/badge/C%2B%2B-blue?style=flat-square&logo=C%2B%2B&logoColor=white&color=%2300599C)
+![C#](https://img.shields.io/badge/C%23-green?style=flat-square&logo=csharp&logoColor=white&color=%23249121)
+![MySQL](https://img.shields.io/badge/MySQL-blue?style=flat-square&logo=mysql&logoColor=white&color=%2347809D)
+![Docker](https://img.shields.io/badge/Docker-blue?style=flat-square&logo=docker&logoColor=white&color=%232496ED)
+![Git](https://img.shields.io/badge/Git-orange?style=flat-square&logo=git&logoColor=white&color=%23F03C2D)
 
 <!--
 **jarboer/jarboer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
